@@ -2,4 +2,4 @@
 # shellcheck source=./common.mod.sh
 source ./common.mod.sh
 
-ephemeral_shell
+run_ephemeral_shell
